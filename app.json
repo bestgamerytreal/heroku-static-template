@@ -29,7 +29,6 @@
       "size": "standard-1x"
     }
     }
-  ],
   "environments": {
     "test": {
       "scripts": {
